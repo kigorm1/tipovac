@@ -1,3 +1,4 @@
+echo "# Tipovac" >> README.md
 git init
 git add .
 git commit -m "Prvý commit"
